@@ -1,0 +1,27 @@
+* {
+margin: 12px;
+padding: 12px;
+box-sizing:border-box
+}
+body {
+    background-color: #830ab3;
+    font-family: Arial, sans-serif;
+    color:#15be6a
+}
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+p {
+    font-size: 18px;
+    line-height: 1;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
